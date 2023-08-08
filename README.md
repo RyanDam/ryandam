@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Ryan Dam 👋
 
-<!--
-**RyanDam/ryandam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.dam/)
+[![behance](https://img.shields.io/badge/Printables-053eff?style=for-the-badge&logo=printables&logoColor=white)](https://www.printables.com/@ryandam)
 
-Here are some ideas to get you started:
+```
+Computer Scientist / Maker / Photographer
+Previous worked for VNG Corporation/Zalo as Lead AI Engineer, now temparately on a gap year. 
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryandam&show_icons=true&hide_title=true&hide_border=true">
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandam&langs_count=8&hide=javascript,html,css&theme=graywhite&layout=compact&custom_title=Languages&card_width=260">
+</a>
