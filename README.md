@@ -6,10 +6,3 @@
 ```
 Computer Scientist / Maker / Photographer
 ```
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ryandam&show_icons=true&hide_title=true&hide_border=true&hide_rank=true">
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryandam&langs_count=8&hide=javascript,html,css&hide_title=true&theme=graywhite&layout=compact&custom_title=Languages&card_width=260">
-</a>
