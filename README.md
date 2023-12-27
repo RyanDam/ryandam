@@ -5,7 +5,6 @@
 
 ```
 Computer Scientist / Maker / Photographer
-Lead AI Engineer (former) at VNG Corporation/Zalo, now temporarily on a gap year. 
 ```
 
 <a href="#">
